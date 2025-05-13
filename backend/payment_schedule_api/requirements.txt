@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic
+asyncpg  # Driver asíncrono para PostgreSQL
+python-dotenv # Para cargar variables de .env
